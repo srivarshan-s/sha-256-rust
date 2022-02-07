@@ -1,5 +1,5 @@
 [package]
-name = "sha_256_from_scratch"
+name = "sha_256"
 version = "0.1.0"
 edition = "2021"
 
