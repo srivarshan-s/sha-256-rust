@@ -384,7 +384,7 @@ pub fn compression(
         let temp2 = binary_add(&s0, &maj);
         if idx == 0 {
             println!("temp2 = S0 + maj");
-            println!("temp = {} + {}", s0, maj);
+            println!("temp2 = {} + {}", s0, maj);
             println!("temp2 = {}", temp2);
             println!();
         }
